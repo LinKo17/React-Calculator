@@ -1,6 +1,6 @@
 import Digits from "./Digits";
 import Character from "./Character";
-import "./app.css"
+import "./App.css"
 import { useReducer } from "react";
 
 export const ACTIONS = {
